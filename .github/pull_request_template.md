@@ -1,7 +1,4 @@
-{% if base.ref == 'master' and head.ref == 'development' %}
-
 # Van Rijn Coating Portal - v1.?.? release 202?-??-??
-
 
 ## Checklist
 Complete this checklist before merging this pull request.
@@ -35,5 +32,4 @@ Determine the impact on the location. Be plain and simple.
 - 
 
 ### Security 
-
-{% endif %}
+- 
