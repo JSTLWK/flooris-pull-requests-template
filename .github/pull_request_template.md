@@ -1,5 +1,7 @@
-# Van Rijn Coating Portal - v1.?.? release 202?-??-??
 
+{% if base.ref == 'master' and head.ref == 'development' %}
+
+# Van Rijn Coating Portal - v1.?.? release 202?-??-??
 
 
 ## Checklist
@@ -34,3 +36,5 @@ Determine the impact on the location. Be plain and simple.
 - 
 
 ### Security 
+
+{% endif %}
