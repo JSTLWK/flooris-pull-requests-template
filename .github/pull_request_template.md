@@ -5,7 +5,7 @@
 ## Checklist
 Complete this checklist before merging this pull request.
  - [ ] A code review has been done by a medior developer.
- - [ ] check for pre/post release items for this pull request ands put them under the header "Pre/Post Release".
+ - [ ] Check for pre/post release items for this pull request ands put them under the header "Pre/Post Release".
  - [ ] Check the impact of the release, what will be affected and where can the changes be found?
  - [ ] Check if the changelog is up-to-date.
 
